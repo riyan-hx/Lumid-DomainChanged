@@ -17,7 +17,7 @@ const Index = () => {
           
           {/* Subtitle */}
           <p className="text-lg text-secondary mb-7 animate-fade-in-up animate-delay-200">
-            Lumid AI is now available at LumidAI.in. Please use the button below to continue.
+            Lumid AI is now available at Lumidai.in Please use the button below to continue.
           </p>
           
           {/* Redirect Button */}
@@ -27,7 +27,7 @@ const Index = () => {
               onClick={handleRedirect}
               className="mt-0"
             >
-              Take me to LumidAI.in →
+              Take me to Lumidai.in →
             </Button>
           </div>
         </div>
